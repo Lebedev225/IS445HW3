@@ -1,4 +1,4 @@
-/* Tutorial 4
+/* HW3
     Example 2 JavaScript code
 */
 const dayEntered = prompt("Enter the day of the week as three first undercase letters: ")

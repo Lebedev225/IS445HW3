@@ -1,5 +1,5 @@
 /* HW3
-    Example 1 JavaScript code
+    Example 4 JavaScript code
 */
 const truePassword = "secret"
 let password = prompt("Enter your password: ")

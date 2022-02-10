@@ -1,5 +1,5 @@
 /* HW3
-    Example 1 JavaScript code
+    Example 5 JavaScript code
 */
 
 let userNumber = Number(prompt("Enter your number: "))

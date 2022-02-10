@@ -1,5 +1,5 @@
 /* HW3
-    Example 1 JavaScript code
+    Example 3 JavaScript code
 */
 
 const num1 = Number(prompt("Enter your first number: "))
