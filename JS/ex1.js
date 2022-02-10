@@ -1,4 +1,4 @@
-/* Tutorial 4
+/* HW3
     Example 1 JavaScript code
 */
 
