@@ -10,10 +10,10 @@ while (password != truePassword && i != 3) {
 }
 
 if (password == truePassword) {
-    alert("You entered the correct password after " + i + " attempt(s)")
+    console.log("You entered the correct password after " + i + " attempt(s)")
 
 }
 
 else  {
-    alert("Your account is locked!  You failed to enter the correct password " + i + " times")
+    console.log("Your account is locked!  You failed to enter the correct password " + i + " times")
 }

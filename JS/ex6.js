@@ -35,4 +35,4 @@ else {
     }    
 }
 
-alert(`${original}\nOne second later: ${hr}h ${min}m ${sec}s`)
+console.log(`${original}\nOne second later: ${hr}h ${min}m ${sec}s`)
